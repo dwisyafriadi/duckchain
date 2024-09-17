@@ -1,8 +1,10 @@
-# Birds Bot (or Birds Bot)
+# Duckchain Bot 
 
 A brief description of yourself or your project. 
+# Join Game
+[Playing Games](https://t.me/DuckChain_bot/quack?startapp=IjPMQ0Nz)
 
-## Connect with Me
+## Join the telegram channel for another bot
 
 [Join my Telegram channel](https://t.me/dasarpemulung)
 
