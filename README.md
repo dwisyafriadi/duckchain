@@ -1,6 +1,8 @@
 # Duckchain Bot 
 
-A brief description of yourself or your project. 
+Auto Clear ✅
+Auto Playing Game ✅
+
 # Join Game
 [Playing Games](https://t.me/DuckChain_bot/quack?startapp=IjPMQ0Nz)
 
