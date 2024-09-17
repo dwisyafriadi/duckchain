@@ -1,9 +1,10 @@
 # Duckchain Bot 
 
-Auto Clear ✅
+Auto Clear ✅  
 Auto Playing Game ✅
 
-# Join Game
+## Join Game
+
 [Playing Games](https://t.me/DuckChain_bot/quack?startapp=IjPMQ0Nz)
 
 ## Join the telegram channel for another bot
