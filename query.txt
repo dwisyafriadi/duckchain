@@ -1,1 +1,1 @@
-user=%7B%22id%22%3A7232541070%2C%22first_name%22%3A%22kgh%22%2C%22last_name%22%3A%22%F0%9F%A6%B4%22%2C%22username%22%3A%22dwidrop2%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-4742600375119026486&chat_type=channel&start_param=IjPMQ0Nz&auth_date=1726559634&hash=65173b320a9118de5bcb92162045f779e65bfb4092caad4a765ca01955ee3cb7
+
