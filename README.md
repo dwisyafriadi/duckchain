@@ -15,6 +15,4 @@ Auto Playing Game ✅
 
 Donations are appreciated! You can support me via:
 
-* Dana: 081214827906
-* Gopay: 081214827906
-* Ovo: 081214827906
+Toncoin : UQCh0wyU8uEmAl8Z3NvoU-jQK229V6aO8vTBznV0fcbc2djW
